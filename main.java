@@ -1,7 +1,6 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+
 import java.util.*;
-class HelloWorld {
+class ShiftCipher {
     public static void caserEncrypt(String s,int key)
     {
         String res="";
